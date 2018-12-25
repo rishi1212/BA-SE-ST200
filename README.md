@@ -1,6 +1,8 @@
-# BA-SE-ST200
-BA-SE-ST200
+# BA-SE-ST200 - Dynamics 365 integration with 3rd Party API's using Azure Web Job, Logic Apps, Function & PowerApps
 
+Welcome to the BA-SE-ST200 wiki! This page will show you all the steps that are required to complete the lab. Let's get started.
+
+Here are the steps you need to follow for this lab:
 
 ## 1. Dynamics 365 CE Customization
 
