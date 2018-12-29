@@ -4,7 +4,7 @@ Welcome to the BA-SE-ST200 wiki! This page will show you all the steps that are 
 
 Here are the steps you need to follow for this lab:
 
-## 1. Dynamics 365 CE Customization
+## 1. Integration Use Case using WebJobs.
 
 * Login to Azure and Create a new Service Bus.
 * Navigate to created Service Bus, then go to Shared Access Policies form left panel.
